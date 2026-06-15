@@ -1,0 +1,6 @@
+title: hrmaster1982 — Blog sức khỏe & nội dung
+description: Tổng hợp, biên tập nội dung hữu ích mỗi ngày.
+theme: minima
+lang: vi-VN
+plugins:
+  - jekyll-feed
