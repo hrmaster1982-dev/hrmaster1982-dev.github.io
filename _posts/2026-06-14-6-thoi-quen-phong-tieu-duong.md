@@ -6,8 +6,8 @@ categories: suc-khoe
 image: /assets/images/tieu-duong.jpg
 ---
 
-![Ăn uống lành mạnh giúp phòng ngừa tiểu đường](/assets/images/tieu-duong.jpg)
-*Ảnh: Pexels — Manuel Joseph*
+![Kiểm tra đường huyết định kỳ giúp phát hiện và phòng ngừa tiểu đường sớm](/assets/images/tieu-duong.jpg)
+*Ảnh: Pexels — Mehmet BALCI*
 
 **Tiểu đường type 2 phần lớn có thể phòng ngừa được bằng lối sống.** Dưới đây là 6 thói quen được các tổ chức y khoa uy tín khuyến cáo, kèm cơ chế vì sao hiệu quả và mục tiêu cụ thể bạn áp dụng được ngay.
 
