@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "6 thói quen mỗi ngày giúp phòng ngừa tiểu đường — góc nhìn chuyên gia"
-date: 2026-06-15 09:00:00 +0700
+date: 2026-06-14 09:00:00 +0700
 categories: suc-khoe
 ---
 
